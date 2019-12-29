@@ -1,0 +1,2 @@
+# Strata
+Projeto Strata - Website
